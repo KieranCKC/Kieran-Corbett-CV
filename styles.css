@@ -1,0 +1,59 @@
+
+   body {background-color: #2f4550;}
+
+
+
+hr {text-align: center;
+  border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 10%;}
+table {margin: 0 auto;}
+
+  h1 {text-align: center;
+    font-family: Montserrat;
+    color:#0a0400; }
+
+  h2 {text-align: center;
+    font-family: Montserrat;
+    color: #98a3a5; }
+
+  h3 {text-align: center;
+    font-family: Montserrat;
+    color:#98a3a5;}
+
+  th {text-align: center;
+    color:#98a3a5; }
+
+  p {text-align: center;
+    color: #f4f4f9;
+    font-family:Montserrat;}
+
+  td {image-orientation: auto;
+    text-align: center;
+    color: white;
+    font-family:Montserrat;}
+
+    ul{
+      position:relative;
+      display: inline-block;
+      list-style: none;
+      width:100%;
+      text-align: center;
+      margin: auto;
+      padding: 0;}
+
+  li {text-align: center;
+    color: white;
+    font-family:Montserrat;
+  list-style-position: inside;
+  float: none;}
+
+  a {color:white; }
+
+ form {color: white;}
+
+ my hobbies
+
+ title { text-align: center;}
