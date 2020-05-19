@@ -1,52 +1,51 @@
-
-   body {background-color: #2f4550;}
+body {background-color: #2f4550;}
 
 
 
 hr {text-align: center;
-  border-style: none;
-    border-top: dotted;
-    border-color: grey;
-    border-width: 8px;
-    width: 10%;}
+border-style: none;
+ border-top: dotted;
+ border-color: grey;
+ border-width: 8px;
+ width: 10%;}
 table {margin: 0 auto;}
 
-  h1 {text-align: center;
-    font-family: Montserrat;
-    color:#0a0400; }
+h1 {text-align: center;
+ font-family: Montserrat;
+ color:#0a0400; }
 
-  h2 {text-align: center;
-    font-family: Montserrat;
-    color: #98a3a5; }
+h2 {text-align: center;
+ font-family: Montserrat;
+ color: #98a3a5; }
 
-  h3 {text-align: center;
-    font-family: Montserrat;
-    color:#98a3a5;}
+h3 {text-align: center;
+ font-family: Montserrat;
+ color:#98a3a5;}
 
-  th {text-align: center;
-    color:#98a3a5; }
+th {text-align: center;
+ color:#98a3a5; }
 
-  p {text-align: center;
-    color: #f4f4f9;
-    font-family:Montserrat;}
+p {text-align: center;
+ color: #f4f4f9;
+ font-family:Montserrat;}
 
-  td {image-orientation: auto;
-    text-align: center;
-    color: white;
-    font-family:Montserrat;}
+td {image-orientation: auto;
+ text-align: center;
+ color: white;
+ font-family:Montserrat;}
 
-    ul{  text-align: center;}
+ ul{  text-align: center;}
 
-  li {text-align: center;
-    color: white;
-    font-family:Montserrat;
-  list-style-position: inside;
-  float: none;}
+li {text-align: center;
+ color: white;
+ font-family:Montserrat;
+list-style-position: inside;
+float: none;}
 
-  a {color:white; }
+a {color:white; }
 
- form {color: white;}
+form {color: white;}
 
- my hobbies
+my hobbies
 
- title { text-align: center;}
+title { text-align: center;}
